@@ -34,7 +34,6 @@ MaksimMorozov
     <!-- android: MIN SDK version supported on the target device. MAX version is blank by default. -->
 <preference name="android-minSdkVersion"      value="15" />
 <preference name="android-targetSdkVersion" value="26" />
-    <preference name="orientation" value="portrait" />
     <preference name="target-device" value="handset" />
 
     <!-- Define a specific version of PhoneGap to build into your app. -->

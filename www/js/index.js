@@ -43,12 +43,12 @@ $('.loader1').fadeIn();
 
 
 $("#BtnEnt" ).click(function() {
-var ref = cordova.InAppBrowser.open('http://smartekibastuz.kz/pavlodar/smart/'.ipush, '_blank', 'location=no,toolbar=no,disallowoverscroll=yes');
+var ref = cordova.InAppBrowser.open('http://spv.kz/login.php', '_blank', 'location=no,toolbar=no,disallowoverscroll=yes');
 });
         
 
         
-var ref = cordova.InAppBrowser.open('http://smartekibastuz.kz/pavlodar/smart/', '_blank', 'location=no,toolbar=no,disallowoverscroll=yes');
+var ref = cordova.InAppBrowser.open('http://spv.kz/login.php', '_blank', 'location=no,toolbar=no,disallowoverscroll=yes');
 
         
 

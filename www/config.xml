@@ -5,10 +5,10 @@
 -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
- id        = "kz.openpavlodar"
-      version   = "0.8">
+ id        = "kz.shopper"
+      version   = "0.1">
 
-    <name>Open Akimat(Pavlodar)</name>
+    <name>SHOPPPER</name>
 
     <description>
 «SMART Павлодар» - это многофункциональная мобильная система
